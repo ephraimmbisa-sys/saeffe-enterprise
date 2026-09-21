@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-label="SAEFFE Enterprise logo">
+<rect width="520" height="150" rx="28" fill="#151515"/>
+<g transform="translate(24 24)">
+<path d="M52 0 L76 14 L76 42 L52 56 L28 42 L28 14 Z" fill="#c88424"/>
+<path d="M52 10 L67 19 L67 37 L52 46 L37 37 L37 19 Z" fill="#151515"/>
+<path d="M52 17 L61 22 L61 33 L52 38 L43 33 L43 22 Z" fill="#fff"/>
+</g>
+<text x="112" y="73" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" letter-spacing="6">SAEFFE</text>
+<text x="115" y="105" fill="#c88424" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">ENTERPRISE</text>
+</svg>
