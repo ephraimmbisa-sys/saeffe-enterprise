@@ -1,21 +1,21 @@
-# SAEFFE Enterprise Website — v2
+# SAEFFE Enterprise Website
 
-This version uses the real SAEFFE photos supplied in the conversation and the supplied contact/location details.
+Static website for SAEFFE Enterprise — panel beating, car painting, carpeting/upholstery and joinery.
 
-## Contact details currently entered
-- WhatsApp / main contact: 098 291 6318
-- Phone: 088 574 4016
+## Contact
+- WhatsApp: 098 291 6318
+- WhatsApp: 088 574 4016
+- WhatsApp: 088 087 2606
 - Phone: +27 78 505 0949
-- Phone: 088 087 2606
 - Location: T/A Tengani (Dumba Village), Nsanje District, Malawi
 
-If a different number should be the WhatsApp recipient, change `SAEFFE_WHATSAPP` in `script.js`.
+The quote form lets customers choose any of the three Malawi WhatsApp numbers for their enquiry.
 
 ## Files
-- index.html
-- style.css
-- script.js
-- logo.svg
-- images/
+- `index.html` — website structure
+- `style.css` — design
+- `script.js` — WhatsApp links, quote form and menu
+- `logo.svg` — SAEFFE logo
+- `images/` — business photos
 
-The site is static and can be published on Vercel, Netlify, or GitHub Pages.
+This is a static site and can be deployed on Vercel, Netlify or GitHub Pages.
